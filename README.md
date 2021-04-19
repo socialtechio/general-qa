@@ -2,7 +2,9 @@
 
 ## Usage
 ```
-mvn clean test
+1. git clone https://github.com/socialtechio/general-qa-test-task
+2. cd general-qa-test-task
+3. mvn clean test
 ```
 
 ## Requirements
